@@ -1,6 +1,12 @@
 .row {
     padding-top: 30px;
 }
-#over{
-    overflow: hidden;
+
+.vertical {
+    text-align: left;
+    
+}
+.btn{
+    margin-right: 5px;
+    margin-bottom: 5px;
 }

@@ -1,11 +1,14 @@
+.container{
+    padding-top: 100px;
+}
 .paneldown{
     padding-bottom: 30px;
 }
 
 #btn1{
-margin-top: 23px;
+    margin-top: 22px;
 }
- a{
-    text-decoration-style: none;
-    color: white;
+
+.is-invalid{
+    border: 1px solid red;
 }
